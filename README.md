@@ -10,12 +10,18 @@ You've to log in with your signed-up email and password to enter the chatting pa
 If you would like to test the project for your self I will provide a step by step guide to do so. Links will be provided at the end.
 
 Step 1: We download the project and import it to your IDE of your choice.
+
 Step 2: Now download XAMMP. We use XAMMP to allow us to host the project locally as well as to be able to connect our project to the database (phpmyadmin).
+
 Step 3: After installing XAMMP move the project to XAMMP(folder) > htdocs.
+
 Step 4: Now run the XAMMP application and install Apache and Mysql.
+
 Step 5: After installing both now click the start button for both.
+
 Step 6: Now got to http://localhost/phpmyadmin and import the chatapp.sql to phpmyadmin.
 (Tip) Importing chatapp.sql will add all required tables for the project to run properly.
+
 Step 7: After importing the tables needed you can now go to http://localhost/onlinechatapp/login.php
 Your done now you can explore the chat app by creating an account and chat with yourself.
 
